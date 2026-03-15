@@ -125,6 +125,6 @@ Key observations:
 ---
 
 ## Course & Lecturer
-Evis Plaku
+Evis Plaku  
 Data Structures & Algorithms  
 Metropolitan University of Tirana
