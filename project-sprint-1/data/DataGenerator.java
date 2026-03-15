@@ -19,6 +19,7 @@ public final class DataGenerator {
 
         return switch (type) {
             case RANDOM        -> random(n, rnd);
+            default -> throw new IllegalArgumentException("Unsupported dataset type: " + type);
         };
     }
 
